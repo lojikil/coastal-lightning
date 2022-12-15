@@ -1,0 +1,7 @@
+.DS_Store
+.ninja_deps
+.ninja_log
+*.swp
+*.o
+*.pyc
+node_modules/**

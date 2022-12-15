@@ -1,0 +1,7 @@
+= coastal lightening
+
+10 minute lightening talk on coastML
+
+== building 
+
+Use the `ninja` or `samu` build system (I use Sqmurai) to generate an HTML file from the `presentation.md` file
