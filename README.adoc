@@ -1,4 +1,4 @@
-= coastal lightening
+= coastal lightning
 
 10 minute lightening talk on coastML
 
